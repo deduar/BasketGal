@@ -45,25 +45,7 @@ return [
     */
 
     'connections' => [
-
-        'sqlite' => [
-            'driver'   => 'sqlite',
-            'database' => 'storage/database.sqlite',
-            'prefix'   => '',
-        ],
-
-        'mysql' => [
-            'driver'    => 'mysql',
-            'host'      => 'localhost',
-            'port'      => 3306,
-            'database'  => 'database',
-            'username'  => 'root',
-            'password'  => '',
-            'charset'   => 'utf8mb4',
-            'collation' => 'utf8mb4_unicode_ci',
-            'prefix'    => '',
-        ],
-
+/*
         'pgsql' => [
             'driver'   => 'pgsql',
             'host'     => 'localhost',
@@ -75,15 +57,17 @@ return [
             'prefix'   => '',
             'schema'   => 'public',
         ],
-
-        'sqlsrv' => [
-            'driver'   => 'sqlsrv',
-            'host'     => 'localhost',
-            'port'     => 1433,
-            'database' => 'database',
-            'username' => 'root',
-            'password' => '',
+*/
+        'pgsql' => [
+            'driver'   => 'pgsql',
+            'host'     => 'ec2-54-247-72-30.eu-west-1.compute.amazonaws.com',
+            'port'     => 5432,
+            'database' => 'daq7gc6qm4red',
+            'username' => 'kyrtbvuyehsvoa',
+            'password' => '8d62acc04e8af6b1e0ba550e521f84e62a1d08228a32ff8338f6f29fa4a2c556',
+            'charset'  => 'utf8',
             'prefix'   => '',
+            'schema'   => 'public',
         ],
 
     ],
