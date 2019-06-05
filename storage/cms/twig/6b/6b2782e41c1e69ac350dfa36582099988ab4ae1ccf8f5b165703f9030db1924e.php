@@ -34,7 +34,7 @@ class __TwigTemplate_925dc86d74a614073e2c303de6083b982d0b4d6669e0672d0a338637f10
         // line 1
         echo "<div class=\"lt-row row\">
   <div class=\"lt-col col m5 s12\">
-    <div class=\"flow-text\">Subscribe to get themes updates and exclusive offers.</div>
+    <div class=\"flow-text\">Suscribete para estar al tanto de las noticias y eventos</div>
   </div>
   <div class=\"lt-col col m7 s12\">
     <!-- Begin MailChimp Signup Form -->
@@ -43,7 +43,7 @@ class __TwigTemplate_925dc86d74a614073e2c303de6083b982d0b4d6669e0672d0a338637f10
         <div id=\"mc_embed_signup_scroll\">
           <div class=\"input-field col m7 s12 mc-field-group\">
           \t<input type=\"email\" value=\"\" name=\"EMAIL\" class=\"required email\" id=\"mce-EMAIL\">
-            <label for=\"mce-EMAIL\">Your Email Address</label>
+            <label for=\"mce-EMAIL\">Tu dirección de Correo electronico</label>
             <div id=\"mce-responses\" class=\"clear\">
             \t<div class=\"response\" id=\"mce-error-response\" style=\"display:none\"></div>
             \t<div class=\"response\" id=\"mce-success-response\" style=\"display:none\"></div>
@@ -76,7 +76,7 @@ class __TwigTemplate_925dc86d74a614073e2c303de6083b982d0b4d6669e0672d0a338637f10
     {
         return new Source("<div class=\"lt-row row\">
   <div class=\"lt-col col m5 s12\">
-    <div class=\"flow-text\">Subscribe to get themes updates and exclusive offers.</div>
+    <div class=\"flow-text\">Suscribete para estar al tanto de las noticias y eventos</div>
   </div>
   <div class=\"lt-col col m7 s12\">
     <!-- Begin MailChimp Signup Form -->
@@ -85,7 +85,7 @@ class __TwigTemplate_925dc86d74a614073e2c303de6083b982d0b4d6669e0672d0a338637f10
         <div id=\"mc_embed_signup_scroll\">
           <div class=\"input-field col m7 s12 mc-field-group\">
           \t<input type=\"email\" value=\"\" name=\"EMAIL\" class=\"required email\" id=\"mce-EMAIL\">
-            <label for=\"mce-EMAIL\">Your Email Address</label>
+            <label for=\"mce-EMAIL\">Tu dirección de Correo electronico</label>
             <div id=\"mce-responses\" class=\"clear\">
             \t<div class=\"response\" id=\"mce-error-response\" style=\"display:none\"></div>
             \t<div class=\"response\" id=\"mce-success-response\" style=\"display:none\"></div>

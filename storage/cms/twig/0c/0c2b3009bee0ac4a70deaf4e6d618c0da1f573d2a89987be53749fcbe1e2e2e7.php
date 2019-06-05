@@ -37,25 +37,25 @@ class __TwigTemplate_628ac4ed74da9ead188c77b70d23701bb8c2906b67eb5a6ed500aab2773
     <div class=\"lt-col col l3 m6 s12\">
       <a href=\"https://laravel.com/\" target=\"_blank\"><img class=\"lt-grayscale-opacity-hover-filter responsive-img\" src=\"";
         // line 4
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/pages/home/utility/img-01.png");
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/pages/home/utility/sponsor-01.png");
         echo "\" alt=\"Laravel\"></a>
     </div>
     <div class=\"lt-col col l3 m6 s12\">
       <a href=\"https://octobercms.com/\" target=\"_blank\"><img class=\"lt-grayscale-opacity-hover-filter responsive-img\" src=\"";
         // line 7
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/pages/home/utility/img-02.png");
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/pages/home/utility/sponsor-02.png");
         echo "\" alt=\"OctoberCMS\"></a>
     </div>
     <div class=\"lt-col col l3 m6 s12\">
       <a href=\"http://materializecss.com/\" target=\"_blank\"><img class=\"lt-grayscale-opacity-hover-filter responsive-img\" src=\"";
         // line 10
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/pages/home/utility/img-03.png");
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/pages/home/utility/sponsor-03.png");
         echo "\" alt=\"Materialize CSS\"></a>
     </div>
     <div class=\"lt-col col l3 m6 s12\">
     <a href=\"https://github.com/\" target=\"_blank\">  <img class=\"lt-grayscale-opacity-hover-filter responsive-img\" src=\"";
         // line 13
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/pages/home/utility/img-04.png");
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/pages/home/utility/sponsor-04.png");
         echo "\" alt=\"Github\"></a>
     </div>
   </div>
@@ -82,16 +82,16 @@ class __TwigTemplate_628ac4ed74da9ead188c77b70d23701bb8c2906b67eb5a6ed500aab2773
         return new Source("<div class=\"lt-row row\">
   <div class=\"center\">
     <div class=\"lt-col col l3 m6 s12\">
-      <a href=\"https://laravel.com/\" target=\"_blank\"><img class=\"lt-grayscale-opacity-hover-filter responsive-img\" src=\"{{ 'assets/img/pages/home/utility/img-01.png'|theme }}\" alt=\"Laravel\"></a>
+      <a href=\"https://laravel.com/\" target=\"_blank\"><img class=\"lt-grayscale-opacity-hover-filter responsive-img\" src=\"{{ 'assets/img/pages/home/utility/sponsor-01.png'|theme }}\" alt=\"Laravel\"></a>
     </div>
     <div class=\"lt-col col l3 m6 s12\">
-      <a href=\"https://octobercms.com/\" target=\"_blank\"><img class=\"lt-grayscale-opacity-hover-filter responsive-img\" src=\"{{ 'assets/img/pages/home/utility/img-02.png'|theme }}\" alt=\"OctoberCMS\"></a>
+      <a href=\"https://octobercms.com/\" target=\"_blank\"><img class=\"lt-grayscale-opacity-hover-filter responsive-img\" src=\"{{ 'assets/img/pages/home/utility/sponsor-02.png'|theme }}\" alt=\"OctoberCMS\"></a>
     </div>
     <div class=\"lt-col col l3 m6 s12\">
-      <a href=\"http://materializecss.com/\" target=\"_blank\"><img class=\"lt-grayscale-opacity-hover-filter responsive-img\" src=\"{{ 'assets/img/pages/home/utility/img-03.png'|theme }}\" alt=\"Materialize CSS\"></a>
+      <a href=\"http://materializecss.com/\" target=\"_blank\"><img class=\"lt-grayscale-opacity-hover-filter responsive-img\" src=\"{{ 'assets/img/pages/home/utility/sponsor-03.png'|theme }}\" alt=\"Materialize CSS\"></a>
     </div>
     <div class=\"lt-col col l3 m6 s12\">
-    <a href=\"https://github.com/\" target=\"_blank\">  <img class=\"lt-grayscale-opacity-hover-filter responsive-img\" src=\"{{ 'assets/img/pages/home/utility/img-04.png'|theme }}\" alt=\"Github\"></a>
+    <a href=\"https://github.com/\" target=\"_blank\">  <img class=\"lt-grayscale-opacity-hover-filter responsive-img\" src=\"{{ 'assets/img/pages/home/utility/sponsor-04.png'|theme }}\" alt=\"Github\"></a>
     </div>
   </div>
 </div>", "/home/deduar/Projects/BasketGal/themes/laratify-octobercms-octaskin/partials/pages-home/utility.htm", "");

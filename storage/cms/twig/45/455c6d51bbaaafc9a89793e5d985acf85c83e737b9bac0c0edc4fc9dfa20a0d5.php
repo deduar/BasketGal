@@ -95,19 +95,6 @@ class __TwigTemplate_a49cfa56c15cf10812da3c665a0a40314ed91d14cb31dd82ecf3af60556
         // line 37
         echo "    </div>
   </div>
-</section>
-
-<section id=\"lt-extension\" class=\"lt-section section\">
-  <div class=\"lt-container container\">
-    <div class=\"lt-content lt-extension-content\">
-      ";
-        // line 44
-        $context['__cms_partial_params'] = [];
-        echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("pages-home/extension"        , $context['__cms_partial_params']        , true        );
-        unset($context['__cms_partial_params']);
-        // line 45
-        echo "    </div>
-  </div>
 </section>";
     }
 
@@ -123,7 +110,7 @@ class __TwigTemplate_a49cfa56c15cf10812da3c665a0a40314ed91d14cb31dd82ecf3af60556
 
     public function getDebugInfo()
     {
-        return array (  109 => 45,  105 => 44,  96 => 37,  92 => 36,  83 => 29,  79 => 28,  70 => 21,  66 => 20,  57 => 13,  53 => 12,  44 => 5,  40 => 4,  35 => 1,);
+        return array (  96 => 37,  92 => 36,  83 => 29,  79 => 28,  70 => 21,  66 => 20,  57 => 13,  53 => 12,  44 => 5,  40 => 4,  35 => 1,);
     }
 
     public function getSourceContext()
@@ -164,14 +151,6 @@ class __TwigTemplate_a49cfa56c15cf10812da3c665a0a40314ed91d14cb31dd82ecf3af60556
   <div class=\"lt-container container\">
     <div class=\"lt-content lt-bottom-content\">
       {% partial \"pages-home/bottom\" %}
-    </div>
-  </div>
-</section>
-
-<section id=\"lt-extension\" class=\"lt-section section\">
-  <div class=\"lt-container container\">
-    <div class=\"lt-content lt-extension-content\">
-      {% partial \"pages-home/extension\" %}
     </div>
   </div>
 </section>", "/home/deduar/Projects/BasketGal/themes/laratify-octobercms-octaskin/pages/home.htm", "");

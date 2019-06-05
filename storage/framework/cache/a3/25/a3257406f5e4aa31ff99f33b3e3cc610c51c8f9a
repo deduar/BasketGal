@@ -1,8 +1,9 @@
-1559722661a:1:{s:22:"pages-home/feature.htm";a:5:{s:8:"fileName";s:22:"pages-home/feature.htm";s:7:"content";s:1976:"<div class="center">
+1559728898a:1:{s:22:"pages-home/feature.htm";a:5:{s:8:"fileName";s:22:"pages-home/feature.htm";s:7:"content";s:1883:"<div class="center">
   <div class="lt-row row">
     <div class="lt-col col s12">
-      <h2 class="lt-title">Octaskin Features</h2>
-      <p class="flow-text">Octaskin comes with the sample pages to help you get started faster. You can change the text and images and you're good to go.</p>
+      <h2 class="lt-title">Bienvenida</h2>
+      <p class="flow-text">Te damos la bienvenida a la página web de la <b>Asociación Deportiva Basketgal</b></p>
+      <p class="flow-text"> Aquí podrás consultar toda la información de las ligas de baloncesto que organizamos, así como la relativa a los colegios y clubes participantes y los equipos que participan en la liga federada bajo el nombre de Basketgal-Obradoiro.</p>
     </div>
   </div>
 
@@ -11,44 +12,42 @@
   <div class="lt-row row">
     <div class="lt-col col m4 s12">
       <i class="large pe-7s-edit primary-color-text"></i>
-      <h5>Customizable</h5>
-      <p>Develop a system of design that allows for a unified user experience across all their products on any platform.</p>
+      <h5>Nuestra Organización</h5>
+      <p>
+        <p>Los contactos de nuetsra dirigencia y te comentamos como estamos organizados</p>
+      </p>
     </div>
     <div class="lt-col col m4 s12">
       <i class="large pe-7s-science primary-color-text"></i>
-      <h5>Modern</h5>
-      <p>Develop a system of design that allows for a unified user experience across all their products on any platform.</p>
+      <h5>Normativas</h5>
+      <p>Aquí conseguiras toda las normativas, regulaciones y requerimientos exigidos a nuestos socios y afiliados</p>
     </div>
     <div class="lt-col col m4 s12">
       <i class="large pe-7s-exapnd2 primary-color-text"></i>
-      <h5>Responsive</h5>
-      <p>Develop a system of design that allows for a unified user experience across all their products on any platform.</p>
+      <h5>Documentos</h5>
+      <p>Aquí conseguiras toda la docuemntación que nuestros socios y afiliados deben llevar al día para un mejor funcionamiento de nuestra organización</p>
     </div>
   </div>
 
   <div class="lt-row row">
-    <div class="lt-col col m4 s12">
+    <div class="lt-col col m6 s12">
       <i class="large pe-7s-ribbon primary-color-text"></i>
-      <h5>Stylish</h5>
-      <p>Develop a system of design that allows for a unified user experience across all their products on any platform.</p>
+      <h5>Galería</h5>
+      <p>Una coleccion de fotos y videos de nuestras actividades y las que han compartido con nosotros</p>
     </div>
-    <div class="lt-col col m4 s12">
+    <div class="lt-col col m6 s12">
       <i class="large pe-7s-like2 primary-color-text"></i>
-      <h5>Great Support</h5>
-      <p>Develop a system of design that allows for a unified user experience across all their products on any platform.</p>
-    </div>
-    <div class="lt-col col m4 s12">
-      <i class="large pe-7s-note2 primary-color-text"></i>
-      <h5>Documented</h5>
-      <p>Develop a system of design that allows for a unified user experience across all their products on any platform.</p>
+      <h5>Agenda</h5>
+      <p>Chequea los calendarios de nuestras actividades</p>
     </div>
   </div>
 </div>
-";s:5:"mtime";i:1559684211;s:6:"markup";s:1975:"<div class="center">
+";s:5:"mtime";i:1559725424;s:6:"markup";s:1882:"<div class="center">
   <div class="lt-row row">
     <div class="lt-col col s12">
-      <h2 class="lt-title">Octaskin Features</h2>
-      <p class="flow-text">Octaskin comes with the sample pages to help you get started faster. You can change the text and images and you're good to go.</p>
+      <h2 class="lt-title">Bienvenida</h2>
+      <p class="flow-text">Te damos la bienvenida a la página web de la <b>Asociación Deportiva Basketgal</b></p>
+      <p class="flow-text"> Aquí podrás consultar toda la información de las ligas de baloncesto que organizamos, así como la relativa a los colegios y clubes participantes y los equipos que participan en la liga federada bajo el nombre de Basketgal-Obradoiro.</p>
     </div>
   </div>
 
@@ -57,36 +56,33 @@
   <div class="lt-row row">
     <div class="lt-col col m4 s12">
       <i class="large pe-7s-edit primary-color-text"></i>
-      <h5>Customizable</h5>
-      <p>Develop a system of design that allows for a unified user experience across all their products on any platform.</p>
+      <h5>Nuestra Organización</h5>
+      <p>
+        <p>Los contactos de nuetsra dirigencia y te comentamos como estamos organizados</p>
+      </p>
     </div>
     <div class="lt-col col m4 s12">
       <i class="large pe-7s-science primary-color-text"></i>
-      <h5>Modern</h5>
-      <p>Develop a system of design that allows for a unified user experience across all their products on any platform.</p>
+      <h5>Normativas</h5>
+      <p>Aquí conseguiras toda las normativas, regulaciones y requerimientos exigidos a nuestos socios y afiliados</p>
     </div>
     <div class="lt-col col m4 s12">
       <i class="large pe-7s-exapnd2 primary-color-text"></i>
-      <h5>Responsive</h5>
-      <p>Develop a system of design that allows for a unified user experience across all their products on any platform.</p>
+      <h5>Documentos</h5>
+      <p>Aquí conseguiras toda la docuemntación que nuestros socios y afiliados deben llevar al día para un mejor funcionamiento de nuestra organización</p>
     </div>
   </div>
 
   <div class="lt-row row">
-    <div class="lt-col col m4 s12">
+    <div class="lt-col col m6 s12">
       <i class="large pe-7s-ribbon primary-color-text"></i>
-      <h5>Stylish</h5>
-      <p>Develop a system of design that allows for a unified user experience across all their products on any platform.</p>
+      <h5>Galería</h5>
+      <p>Una coleccion de fotos y videos de nuestras actividades y las que han compartido con nosotros</p>
     </div>
-    <div class="lt-col col m4 s12">
+    <div class="lt-col col m6 s12">
       <i class="large pe-7s-like2 primary-color-text"></i>
-      <h5>Great Support</h5>
-      <p>Develop a system of design that allows for a unified user experience across all their products on any platform.</p>
-    </div>
-    <div class="lt-col col m4 s12">
-      <i class="large pe-7s-note2 primary-color-text"></i>
-      <h5>Documented</h5>
-      <p>Develop a system of design that allows for a unified user experience across all their products on any platform.</p>
+      <h5>Agenda</h5>
+      <p>Chequea los calendarios de nuestras actividades</p>
     </div>
   </div>
 </div>";s:4:"code";N;}}
