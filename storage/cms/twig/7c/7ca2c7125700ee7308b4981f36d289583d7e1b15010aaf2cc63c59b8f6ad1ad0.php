@@ -77,7 +77,7 @@ class __TwigTemplate_68f95bfa8a901098580aa167fe8defee52e1189390927aa7b82bb85ca73
         }
         echo "\"><a href=\"";
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("portfolio");
-        echo "\">Multimedia</a></li>
+        echo "\">Galería</a></li>
           <li class=\"";
         // line 13
         if ((twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, ($context["this"] ?? null), "page", [], "any", false, false, false, 13), "id", [], "any", false, false, false, 13) == "contact")) {
@@ -119,7 +119,7 @@ class __TwigTemplate_68f95bfa8a901098580aa167fe8defee52e1189390927aa7b82bb85ca73
         }
         echo "\"><a href=\"";
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("portfolio");
-        echo "\">Multimedia</a></li>
+        echo "\">Galeriía</a></li>
           <li class=\"";
         // line 20
         if ((twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, ($context["this"] ?? null), "page", [], "any", false, false, false, 20), "id", [], "any", false, false, false, 20) == "contact")) {
@@ -163,14 +163,14 @@ class __TwigTemplate_68f95bfa8a901098580aa167fe8defee52e1189390927aa7b82bb85ca73
           <li class=\"{% if this.page.id == 'home' %}active{% endif %}\"><a href=\"{{ 'home'|page }}\">Inicio</a></li>
           <li class=\"{% if this.page.id == 'about' %}active{% endif %}\"><a href=\"{{ 'about'|page }}\">Liga BasketGal</a></li>
           <li class=\"{% if this.page.id == 'portfolio' %}active{% endif %}\"><a href=\"{{ 'portfolio'|page }}\">Liga Federada</a></li>
-          <li class=\"{% if this.page.id == 'portfolio' %}active{% endif %}\"><a href=\"{{ 'portfolio'|page }}\">Multimedia</a></li>
+          <li class=\"{% if this.page.id == 'portfolio' %}active{% endif %}\"><a href=\"{{ 'portfolio'|page }}\">Galería</a></li>
           <li class=\"{% if this.page.id == 'contact' %}active{% endif %}\"><a href=\"{{ 'contact'|page }}\">Contact</a></li>
         </ul>
         <ul class=\"side-nav\" id=\"mobile-menu\">
           <li class=\"{% if this.page.id == 'home' %}active{% endif %}\"><a href=\"{{ 'home'|page }}\">Inicio</a></li>
           <li class=\"{% if this.page.id == 'about' %}active{% endif %}\"><a href=\"{{ 'about'|page }}\">Liga BasketGal</a></li>
           <li class=\"{% if this.page.id == 'portfolio' %}active{% endif %}\"><a href=\"{{ 'portfolio'|page }}\">Liga Federada</a></li>
-          <li class=\"{% if this.page.id == 'portfolio' %}active{% endif %}\"><a href=\"{{ 'portfolio'|page }}\">Multimedia</a></li>
+          <li class=\"{% if this.page.id == 'portfolio' %}active{% endif %}\"><a href=\"{{ 'portfolio'|page }}\">Galeriía</a></li>
           <li class=\"{% if this.page.id == 'contact' %}active{% endif %}\"><a href=\"{{ 'contact'|page }}\">Contact</a></li>
         </ul>
       </div>

@@ -1,4 +1,4 @@
-1559729306a:1:{s:23:"pages-home/mainpage.htm";a:5:{s:8:"fileName";s:23:"pages-home/mainpage.htm";s:7:"content";s:2954:"<div class="lt-row row">
+1559730989a:1:{s:23:"pages-home/mainpage.htm";a:5:{s:8:"fileName";s:23:"pages-home/mainpage.htm";s:7:"content";s:2954:"<div class="lt-row row">
   <div class="lt-col col m6 s12">
     <div class="parallax-container">
       <div class="lt-parallax parallax"><img src="{{ 'assets/img/pages/home/mainpage/ligabasketgal.png'|theme }}" alt="image"></div>

@@ -45,14 +45,12 @@ class __TwigTemplate_7af57e1c68ca9b3c28b311092541e2402d58838cc0dd4681fd1cf1c5daf
 
   <div class=\"lt-row row\">
     <div class=\"lt-col col m4 s12\">
-      <i class=\"large pe-7s-edit primary-color-text\"></i>
+      <i class=\"large pe-7s-network primary-color-text\"></i>
       <h5>Nuestra Organización</h5>
-      <p>
-        <p>Los contactos de nuetsra dirigencia y te comentamos como estamos organizados</p>
-      </p>
+      <p>Los contactos de nuetsra dirigencia y te comentamos como estamos organizados</p>
     </div>
     <div class=\"lt-col col m4 s12\">
-      <i class=\"large pe-7s-science primary-color-text\"></i>
+      <i class=\"large pe-7s-news-paper primary-color-text\"></i>
       <h5>Normativas</h5>
       <p>Aquí conseguiras toda las normativas, regulaciones y requerimientos exigidos a nuestos socios y afiliados</p>
     </div>
@@ -65,12 +63,12 @@ class __TwigTemplate_7af57e1c68ca9b3c28b311092541e2402d58838cc0dd4681fd1cf1c5daf
 
   <div class=\"lt-row row\">
     <div class=\"lt-col col m6 s12\">
-      <i class=\"large pe-7s-ribbon primary-color-text\"></i>
+      <i class=\"large pe-7s-photo-gallery primary-color-text\"></i>
       <h5>Galería</h5>
       <p>Una coleccion de fotos y videos de nuestras actividades y las que han compartido con nosotros</p>
     </div>
     <div class=\"lt-col col m6 s12\">
-      <i class=\"large pe-7s-like2 primary-color-text\"></i>
+      <i class=\"large pe-7s-note primary-color-text\"></i>
       <h5>Agenda</h5>
       <p>Chequea los calendarios de nuestras actividades</p>
     </div>
@@ -103,14 +101,12 @@ class __TwigTemplate_7af57e1c68ca9b3c28b311092541e2402d58838cc0dd4681fd1cf1c5daf
 
   <div class=\"lt-row row\">
     <div class=\"lt-col col m4 s12\">
-      <i class=\"large pe-7s-edit primary-color-text\"></i>
+      <i class=\"large pe-7s-network primary-color-text\"></i>
       <h5>Nuestra Organización</h5>
-      <p>
-        <p>Los contactos de nuetsra dirigencia y te comentamos como estamos organizados</p>
-      </p>
+      <p>Los contactos de nuetsra dirigencia y te comentamos como estamos organizados</p>
     </div>
     <div class=\"lt-col col m4 s12\">
-      <i class=\"large pe-7s-science primary-color-text\"></i>
+      <i class=\"large pe-7s-news-paper primary-color-text\"></i>
       <h5>Normativas</h5>
       <p>Aquí conseguiras toda las normativas, regulaciones y requerimientos exigidos a nuestos socios y afiliados</p>
     </div>
@@ -123,12 +119,12 @@ class __TwigTemplate_7af57e1c68ca9b3c28b311092541e2402d58838cc0dd4681fd1cf1c5daf
 
   <div class=\"lt-row row\">
     <div class=\"lt-col col m6 s12\">
-      <i class=\"large pe-7s-ribbon primary-color-text\"></i>
+      <i class=\"large pe-7s-photo-gallery primary-color-text\"></i>
       <h5>Galería</h5>
       <p>Una coleccion de fotos y videos de nuestras actividades y las que han compartido con nosotros</p>
     </div>
     <div class=\"lt-col col m6 s12\">
-      <i class=\"large pe-7s-like2 primary-color-text\"></i>
+      <i class=\"large pe-7s-note primary-color-text\"></i>
       <h5>Agenda</h5>
       <p>Chequea los calendarios de nuestras actividades</p>
     </div>

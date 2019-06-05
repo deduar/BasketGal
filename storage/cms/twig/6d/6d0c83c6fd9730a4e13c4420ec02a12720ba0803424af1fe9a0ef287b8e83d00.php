@@ -45,7 +45,10 @@ class __TwigTemplate_7ea9e74837087945f0ffef904da42cb33b572d97c48ad7cf77b4df216a8
             <h2 class=\"lt-slider-title\">I Campus BasketGal</h2>
             <h5 class=\"lt-slider-subtitle\">Primera Edicion - Vigo 2019</h5>
             <div class=\"lt-slider-button\">
-              <a href=\"https://octobercms.com/theme/laratify-octobercms-octaskin\" target=\"_blank\" class=\"waves-effect waves-light btn-large primary-color-background\">Proceso de Inscripción<i class=\"material-icons right\">input</i></a>
+              <a href=\"";
+        // line 11
+        echo $this->extensions['Cms\Twig\Extension']->pageFilter("register");
+        echo "\" target=\"_blank\" class=\"waves-effect waves-light btn-large primary-color-background\">Proceso de Inscripción<i class=\"material-icons right\">input</i></a>
             </div>
             <div class=\"lt-slider-links\">
               <a href=\"https://m.do.co/c/396efaba7c20\" target=\"_blank\">Ver Detalles</a> o <a href=\"https://www.laratify.com/\" target=\"_blank\">Contactanos</a>
@@ -61,7 +64,10 @@ class __TwigTemplate_7ea9e74837087945f0ffef904da42cb33b572d97c48ad7cf77b4df216a8
             <h2 class=\"lt-slider-title\">Temporada 2018 - 2019</h2>
             <h5 class=\"lt-slider-subtitle\">Liga BaskeGal o Federados</h5>
             <div class=\"lt-slider-button\">
-              <a href=\"https://octobercms.com/theme/laratify-octobercms-octaskin\" target=\"_blank\" class=\"waves-effect waves-light btn-large primary-color-background\">Galería<i class=\"material-icons right\">input</i></a>
+              <a href=\"";
+        // line 24
+        echo $this->extensions['Cms\Twig\Extension']->pageFilter("home");
+        echo "\" target=\"_blank\" class=\"waves-effect waves-light btn-large primary-color-background\">Galería<i class=\"material-icons right\">input</i></a>
             </div>
           </div>
         </li>
@@ -74,7 +80,10 @@ class __TwigTemplate_7ea9e74837087945f0ffef904da42cb33b572d97c48ad7cf77b4df216a8
             <h2 class=\"lt-slider-title\">Comparte con nosotros tus fotos o videos</h2>
             <h5 class=\"lt-slider-subtitle\">Los publicaremos en nuestra páina</h5>
             <div class=\"lt-slider-links\">
-              <a href=\"https://www.laratify.com/\" target=\"_blank\">Contactanos</a>
+              <a href=\"";
+        // line 34
+        echo $this->extensions['Cms\Twig\Extension']->pageFilter("home");
+        echo "\" target=\"_blank\">Contactanos</a>
             </div>
           </div>
         </li>
@@ -96,7 +105,7 @@ class __TwigTemplate_7ea9e74837087945f0ffef904da42cb33b572d97c48ad7cf77b4df216a8
 
     public function getDebugInfo()
     {
-        return array (  71 => 29,  58 => 19,  42 => 6,  35 => 1,);
+        return array (  85 => 34,  77 => 29,  69 => 24,  61 => 19,  50 => 11,  42 => 6,  35 => 1,);
     }
 
     public function getSourceContext()
@@ -111,7 +120,7 @@ class __TwigTemplate_7ea9e74837087945f0ffef904da42cb33b572d97c48ad7cf77b4df216a8
             <h2 class=\"lt-slider-title\">I Campus BasketGal</h2>
             <h5 class=\"lt-slider-subtitle\">Primera Edicion - Vigo 2019</h5>
             <div class=\"lt-slider-button\">
-              <a href=\"https://octobercms.com/theme/laratify-octobercms-octaskin\" target=\"_blank\" class=\"waves-effect waves-light btn-large primary-color-background\">Proceso de Inscripción<i class=\"material-icons right\">input</i></a>
+              <a href=\"{{ 'register'|page }}\" target=\"_blank\" class=\"waves-effect waves-light btn-large primary-color-background\">Proceso de Inscripción<i class=\"material-icons right\">input</i></a>
             </div>
             <div class=\"lt-slider-links\">
               <a href=\"https://m.do.co/c/396efaba7c20\" target=\"_blank\">Ver Detalles</a> o <a href=\"https://www.laratify.com/\" target=\"_blank\">Contactanos</a>
@@ -124,7 +133,7 @@ class __TwigTemplate_7ea9e74837087945f0ffef904da42cb33b572d97c48ad7cf77b4df216a8
             <h2 class=\"lt-slider-title\">Temporada 2018 - 2019</h2>
             <h5 class=\"lt-slider-subtitle\">Liga BaskeGal o Federados</h5>
             <div class=\"lt-slider-button\">
-              <a href=\"https://octobercms.com/theme/laratify-octobercms-octaskin\" target=\"_blank\" class=\"waves-effect waves-light btn-large primary-color-background\">Galería<i class=\"material-icons right\">input</i></a>
+              <a href=\"{{ 'home'|page }}\" target=\"_blank\" class=\"waves-effect waves-light btn-large primary-color-background\">Galería<i class=\"material-icons right\">input</i></a>
             </div>
           </div>
         </li>
@@ -134,7 +143,7 @@ class __TwigTemplate_7ea9e74837087945f0ffef904da42cb33b572d97c48ad7cf77b4df216a8
             <h2 class=\"lt-slider-title\">Comparte con nosotros tus fotos o videos</h2>
             <h5 class=\"lt-slider-subtitle\">Los publicaremos en nuestra páina</h5>
             <div class=\"lt-slider-links\">
-              <a href=\"https://www.laratify.com/\" target=\"_blank\">Contactanos</a>
+              <a href=\"{{ 'home'|page }}\" target=\"_blank\">Contactanos</a>
             </div>
           </div>
         </li>

@@ -1,4 +1,4 @@
-1559729306a:1:{s:24:"pages-all/navigation.htm";a:6:{s:8:"fileName";s:24:"pages-all/navigation.htm";s:7:"content";s:1905:"[viewBag]
+1559732215a:1:{s:24:"pages-all/navigation.htm";a:6:{s:8:"fileName";s:24:"pages-all/navigation.htm";s:7:"content";s:1902:"[viewBag]
 ==
 <div class="lt-navbar navbar-fixed">
   <nav class="lt-no-background">
@@ -11,20 +11,20 @@
           <li class="{% if this.page.id == 'home' %}active{% endif %}"><a href="{{ 'home'|page }}">Inicio</a></li>
           <li class="{% if this.page.id == 'about' %}active{% endif %}"><a href="{{ 'about'|page }}">Liga BasketGal</a></li>
           <li class="{% if this.page.id == 'portfolio' %}active{% endif %}"><a href="{{ 'portfolio'|page }}">Liga Federada</a></li>
-          <li class="{% if this.page.id == 'portfolio' %}active{% endif %}"><a href="{{ 'portfolio'|page }}">Multimedia</a></li>
+          <li class="{% if this.page.id == 'portfolio' %}active{% endif %}"><a href="{{ 'portfolio'|page }}">Galería</a></li>
           <li class="{% if this.page.id == 'contact' %}active{% endif %}"><a href="{{ 'contact'|page }}">Contact</a></li>
         </ul>
         <ul class="side-nav" id="mobile-menu">
           <li class="{% if this.page.id == 'home' %}active{% endif %}"><a href="{{ 'home'|page }}">Inicio</a></li>
           <li class="{% if this.page.id == 'about' %}active{% endif %}"><a href="{{ 'about'|page }}">Liga BasketGal</a></li>
           <li class="{% if this.page.id == 'portfolio' %}active{% endif %}"><a href="{{ 'portfolio'|page }}">Liga Federada</a></li>
-          <li class="{% if this.page.id == 'portfolio' %}active{% endif %}"><a href="{{ 'portfolio'|page }}">Multimedia</a></li>
+          <li class="{% if this.page.id == 'portfolio' %}active{% endif %}"><a href="{{ 'portfolio'|page }}">Galeriía</a></li>
           <li class="{% if this.page.id == 'contact' %}active{% endif %}"><a href="{{ 'contact'|page }}">Contact</a></li>
         </ul>
       </div>
     </div>
   </nav>
-</div>";s:5:"mtime";i:1559722197;s:6:"markup";s:1890:"<div class="lt-navbar navbar-fixed">
+</div>";s:5:"mtime";i:1559729744;s:6:"markup";s:1887:"<div class="lt-navbar navbar-fixed">
   <nav class="lt-no-background">
     <div class="nav-wrapper">
       <div class="lt-container container">
@@ -35,14 +35,14 @@
           <li class="{% if this.page.id == 'home' %}active{% endif %}"><a href="{{ 'home'|page }}">Inicio</a></li>
           <li class="{% if this.page.id == 'about' %}active{% endif %}"><a href="{{ 'about'|page }}">Liga BasketGal</a></li>
           <li class="{% if this.page.id == 'portfolio' %}active{% endif %}"><a href="{{ 'portfolio'|page }}">Liga Federada</a></li>
-          <li class="{% if this.page.id == 'portfolio' %}active{% endif %}"><a href="{{ 'portfolio'|page }}">Multimedia</a></li>
+          <li class="{% if this.page.id == 'portfolio' %}active{% endif %}"><a href="{{ 'portfolio'|page }}">Galería</a></li>
           <li class="{% if this.page.id == 'contact' %}active{% endif %}"><a href="{{ 'contact'|page }}">Contact</a></li>
         </ul>
         <ul class="side-nav" id="mobile-menu">
           <li class="{% if this.page.id == 'home' %}active{% endif %}"><a href="{{ 'home'|page }}">Inicio</a></li>
           <li class="{% if this.page.id == 'about' %}active{% endif %}"><a href="{{ 'about'|page }}">Liga BasketGal</a></li>
           <li class="{% if this.page.id == 'portfolio' %}active{% endif %}"><a href="{{ 'portfolio'|page }}">Liga Federada</a></li>
-          <li class="{% if this.page.id == 'portfolio' %}active{% endif %}"><a href="{{ 'portfolio'|page }}">Multimedia</a></li>
+          <li class="{% if this.page.id == 'portfolio' %}active{% endif %}"><a href="{{ 'portfolio'|page }}">Galeriía</a></li>
           <li class="{% if this.page.id == 'contact' %}active{% endif %}"><a href="{{ 'contact'|page }}">Contact</a></li>
         </ul>
       </div>
