@@ -45,7 +45,7 @@ return [
     */
 
     'connections' => [
-
+/*
         'pgsql' => [
             'driver'   => 'pgsql',
             'host'     => 'localhost',
@@ -57,7 +57,7 @@ return [
             'prefix'   => '',
             'schema'   => 'public',
         ],
-/*
+*/
         'pgsql' => [
             'driver'   => 'pgsql',
             'host'     => 'ec2-54-247-72-30.eu-west-1.compute.amazonaws.com',
@@ -69,7 +69,7 @@ return [
             'prefix'   => '',
             'schema'   => 'public',
         ],
-*/
+
     ],
 
     /*
